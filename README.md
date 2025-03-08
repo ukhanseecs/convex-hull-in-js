@@ -11,10 +11,20 @@ The convex hull of a set of points is the smallest convex polygon that encloses 
 
 ## How to Use
 
-1. Open `index.html` in a web browser
-2. Click anywhere on the canvas to add points
-3. Press the `Enter` key to toggle the display of the convex hull
-4. Add more points to see how the convex hull changes dynamically
+## How to Use
+
+1. Clone the repository
+```bash
+git clone https://github.com/yourusername/convex-hull-visualizer.git
+cd convex-hull-visualizer
+```
+
+2. Open `index.html` in a web browser
+    - You can simply double-click the file or use a local server
+
+3. Click anywhere on the canvas to add points
+4. Press the `Enter` key to toggle the display of the convex hull
+5. Add more points to see how the convex hull changes dynamically
 
 
 - Vector mathematics and drawing utilities from custom built [Library.js module](https://github.com/UmarAdam9/JavaScript-2D-game-dev-Library)
