@@ -2,6 +2,10 @@
 
 A simple interactive web application to visualize the Convex Hull algorithm using JavaScript and HTML5 Canvas.
 
+## Demo
+
+![Convex Hull Visualization](image.png)
+
 ## What is a Convex Hull?
 
 The convex hull of a set of points is the smallest convex polygon that encloses all the points. Think of it as stretching a rubber band around the points - the shape it forms is the convex hull.
