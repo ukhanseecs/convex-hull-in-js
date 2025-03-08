@@ -9,7 +9,6 @@ A simple interactive web application to visualize the Convex Hull algorithm usin
 
 The convex hull of a set of points is the smallest convex polygon that encloses all the points. Think of it as stretching a rubber band around the points - the shape it forms is the convex hull.
 
-## How to Use
 
 ## How to Use
 
@@ -27,5 +26,6 @@ cd convex-hull-visualizer
 5. Add more points to see how the convex hull changes dynamically
 
 
-- Vector mathematics and drawing utilities from custom built [Library.js module](https://github.com/UmarAdam9/JavaScript-2D-game-dev-Library)
+
+Vector mathematics and drawing utilities from custom built [Library.js module](https://github.com/UmarAdam9/JavaScript-2D-game-dev-Library)
 
