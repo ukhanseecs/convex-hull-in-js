@@ -1,4 +1,4 @@
-# Convex Hull Visualizer
+# 2D Convex Hull Visualizer
 
 A simple interactive web application to visualize the Convex Hull algorithm using JavaScript and HTML5 Canvas. This application implements the Graham Scan algorithm for finding the convex hull.
 
